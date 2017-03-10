@@ -66,3 +66,6 @@
 "buy-popup" = "You have to buy this package in order to use it. Would you like to buy it now?";
 "buy-popup-yes" = "Yes!";
 "buy-popup-no" = "No!";
+"download-new-language-pack" = "There is a new language pack to download! Would you like to get it now?";
+"failed-to-download-lpack" = "Failed to download the language pack! Try again later!";
+"failed-to-install-lpack" = "Failed to install the language pack! Try again later!";
