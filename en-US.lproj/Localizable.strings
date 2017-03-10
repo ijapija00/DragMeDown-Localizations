@@ -52,7 +52,7 @@
 "relaunch-app-button" = "Relaunch App";
 "relaunch-all-app-button" = "Relaunch All Apps";
 "clear-badge-button" = "Clear App Badge";
-"remove-user-data-button" = "Delete All User Data";
+"remove-user-data-button" = "Delete All App User Data";
 "dismiss-switcher-button" = "Dismiss Switcher";
 "cancel-button" = "Cancel";
 "new-favorite-app-title" = "New Favorite App";
