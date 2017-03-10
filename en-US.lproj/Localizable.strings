@@ -63,3 +63,6 @@
 "reset-settings-message" = "Reset Complete! Feel free to customize DragMeDown again!";
 "failed-to-connect-server" = "The connection to the payment server failed!";
 "appbadge-cleared" = "The app badge is cleared!";
+"buy-popup" = "You have to buy this package in order to use it. Would you like to buy it now?";
+"buy-popup-yes" = "Yes!";
+"buy-popup-no" = "No!";
