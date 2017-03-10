@@ -69,3 +69,4 @@
 "download-new-language-pack" = "There is a new language pack to download! Would you like to get it now?";
 "failed-to-download-lpack" = "Failed to download the language pack! Try again later!";
 "failed-to-install-lpack" = "Failed to install the language pack! Try again later!";
+"success-to-install-lpack" = "The Language Pack has been downloaded and installed!";
