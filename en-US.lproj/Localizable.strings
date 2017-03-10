@@ -27,7 +27,6 @@
 "blacklisted-apps-detail" = "All selected apps will be blacklisted and not removed when you're using the 'Close App Applications' option.";
 "dragmedown-menu" = "DragMeDown Menu";
 "dragmedown-menu-detail" = "You can customize the DragMeDown Menu. Choose which options to show or hide.";
-Du kan anpassa DragMeDown-Menyn genom att välja vilka alternativ som ska aktiveras eller inaktiveras.";
 "slider-time" = "Drag Sensitivity";
 "slider-time-delay" = "You can customize the Drag Sensitivity with the slider above. Lower values mean that DragMeDown will be activated with a smaller pull down / pull up. For higher values, you'll have to pull more to activate DragMeDown.";
 "always-show-status-bar" = "Always Show The Status Bar";
