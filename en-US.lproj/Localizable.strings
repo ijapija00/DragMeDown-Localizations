@@ -1,4 +1,4 @@
-"language-pack" = "es-ES";
+ "language-pack" = "es-ES";
 "enabled" = "Habilitado";
 "by" = "por";
 "cancel" = "Cancelar";
@@ -10,7 +10,7 @@
 "configuration" = "Configuración";
 "version" = "Versión";
 "buy-me" = "Compra DragMeDown";
-"open-youtube" = "Original App Idea! Inspiration?";
+"open-youtube" = "Me gusta esta idea! Inspiración?";
 "resetsettings" = "Reestablecer ajustes";
 "actions" = "Acciones";
 "hide-title-and-icon" = "Ocultar el Título e Icono";
