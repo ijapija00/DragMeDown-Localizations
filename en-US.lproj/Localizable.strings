@@ -54,7 +54,7 @@
 "clear-badge-button" = "Borrar contador de Notificationes";
 "remove-user-data-button" = "Borrar Datos del Usuario";
 "dismiss-switcher-button" = "Salir del 'Switcher'";
-"cancel-button" = "Cancel";
+"cancel-button" = "Cancelar";
 "new-favorite-app-title" = "Nueva App Favorita";
 "dragmedown-menu-title" = "Menú de DragMeDown - Qué le gustaría hacer?";
 "success-appcache-delete" = "El caché de la App ha sido borrado!";
