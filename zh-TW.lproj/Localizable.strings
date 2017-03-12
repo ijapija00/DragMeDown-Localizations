@@ -60,12 +60,12 @@
 "success-appcache-delete" = "應用程式快取已被清除！";
 "failed-appdata-delete" = "您不能清除這個應用程式的資料！";
 "success-appdata-delete" = "應用程式資料已被清除！";
-"reset-settings-message" = "已完成重設！;
+"reset-settings-message" = "已完成重設！";
 "failed-to-connect-server" = "無法連線付款伺服器！";
 "appbadge-cleared" = "通知數字提醒已被清除！";
 "buy-popup" = "你必須購買這個插件才能使用它，你想現在購買嗎？";
 "buy-popup-yes" = "確定";
-"buy-popup-no" = "否;
+"buy-popup-no" = "否";
 "download-new-language-pack" = "現在有語言包的更新，你想下載嗎？";
 "failed-to-download-lpack" = "無法下載語言包，請稍候再試！";
 "failed-to-install-lpack" = "無法安裝語言包，請稍候再試！";

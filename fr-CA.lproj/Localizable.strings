@@ -19,7 +19,7 @@
 "enable-close-app" = "Activer Fermer l'Application";
 "enable-relaunch" = "Activer Relancer l'Application";
 "enable-relaunch-all" = "Activer Relancer Toutes Les Applications";
-"enable-clear-badge" = "Activer Effacer Le Badge;
+"enable-clear-badge" = "Activer Effacer Le Badge";
 "enable-clear-cache" = "Activer Vider Le Cache";
 "enable-app-restore" = "Activer Supprimer Les Documents Et Données";
 "enable-dismiss-switcher" = "Activer Quitter l'App Switcher";
