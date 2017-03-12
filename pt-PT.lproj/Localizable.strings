@@ -11,10 +11,10 @@
 "version" = "Versão";
 "buy-me" = "Comprar DragMeDown";
 "open-youtube" = "Ideia Original da App! Inspiração?";
-"resetsettings" = "Restaurar Prefdefinições";
-"actions" = "Acções";
+"resetsettings" = "Restaurar Predefinições";
+"actions" = "Ações";
 "hide-title-and-icon" = "Ocultar Título e Ícone";
-"do-not-kill-now-playing" = "Não Fechar Reprodução";
+"do-not-kill-now-playing" = "Não Fechar 'Em Reprodução'";
 "customizations" = "Personalização";
 "enable-close-app" = "Ligar Fechar Aplicação";
 "enable-relaunch" = "Ligar Reiniciar Aplicação";
@@ -28,7 +28,7 @@
 "dragmedown-menu" = " Menu DragMeDown";
 "dragmedown-menu-detail" = "Pode personalizar o Menu DragMeDown. Escolha quais opções mostrar ou esconder.";
 "slider-time" = "Sensibilidade ao Arrastar";
-"slider-time-delay" = "Pode personarlizar a Sensibilidade ao Arrastar através da barra acima. Valores mais baixos farão com que o DragMeDown seja ativado com um moviemento descendentente/ascendente menor. Valores mais altos farão com que tenha que fazer um movimento maior para ativar o DragMeDown.";
+"slider-time-delay" = "Pode personalizar a Sensibilidade ao Arrastar através da barra acima. Valores mais baixos farão com que o DragMeDown seja ativado com um moviemento descendentente/ascendente menor. Valores mais altos farão com que tenha que fazer um movimento maior para ativar o DragMeDown.";
 "always-show-status-bar" = "Mostrar sempre a Status Bar";
 "home-screen" = "Cartão do Home Screen";
 "other-apps" = "Outras Aplicações";
