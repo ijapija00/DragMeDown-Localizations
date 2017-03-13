@@ -71,3 +71,4 @@
 "failed-to-install-lpack" = "Failed to install the language pack! Try again later!";
 "success-to-install-lpack" = "The Language Pack has been downloaded and installed!";
 "buy-popup-visit" = "You have to buy this package in order to use it. Visit the settings for more information!";
+"manage-license" = "Manage My License";
