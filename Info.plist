@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LanguagePackVersion</key>
+	<string>1.1</string>
+	<key>LanguagePackBuild</key>
+	<string>2</string>
+	<key>TranslatorEmail</key>
+	<string>raphael.deguire42@gmail.com</string>
+	<key>TranslatorName</key>
+	<string>basha42</string>
+	<key>Language</key>
+	<string>Français (Canada)</string>
+	<key>LanguageKey</key>
+	<string>fr-CA</string>
+</dict>
+</plist>
