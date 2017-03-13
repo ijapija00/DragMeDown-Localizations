@@ -19,7 +19,7 @@
 "enable-close-app" = "Activer Fermer l'Application";
 "enable-relaunch" = "Activer Relancer l'Application";
 "enable-relaunch-all" = "Activer Relancer Toutes Les Applications";
-"enable-clear-badge" = "Activer Effacer Le Badge;
+"enable-clear-badge" = "Activer Effacer Le Badge";
 "enable-clear-cache" = "Activer Vider Le Cache";
 "enable-app-restore" = "Activer Supprimer Les Documents Et Données";
 "enable-dismiss-switcher" = "Activer Quitter l'App Switcher";
@@ -71,3 +71,4 @@
 "failed-to-install-lpack" = "L'installation du pack de langue a échouée ! Veuillez réessayer plus tard !";
 "success-to-install-lpack" = "Le pack de langue a été téléchargé et installé !";
 "buy-popup-visit" = "Vous devez acheter ce paquet pour pouvoir l'utiliser. Visitez les réglages pour plus d'informations !";
+"manage-license" = "Gérer Ma License";
