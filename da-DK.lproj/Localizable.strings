@@ -14,7 +14,7 @@
 "resetsettings" = "Nulstil alle indstillinger!";
 "actions" = "Handlinger";
 "hide-title-and-icon" = "Skjul titel og ikon";
-"do-not-kill-now-playing" = "Dræb ikke nuværende afspiller";
+"do-not-kill-now-playing" = "Dræb ikke 'Now playing'";
 "customizations" = "Tilpasninger";
 "enable-close-app" = "Slå luk app til";
 "enable-relaunch" = "Slå genstart app til";
@@ -71,3 +71,4 @@
 "failed-to-install-lpack" = "Installation af sprogpakken fejlede! Prøv igen senere!";
 "success-to-install-lpack" = "Sprogpakken er blevet hentet og installeret!";
 "buy-popup-visit" = "Du skal købe denne pakke for at kunne bruge den. Besøg instillingerne for mere information!";
+"manage-license" = "Håndter min licens";
