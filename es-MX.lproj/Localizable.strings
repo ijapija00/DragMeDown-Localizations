@@ -14,6 +14,7 @@
 "resetsettings" = "Restablecer Todos Los Ajustes!";
 "actions" = "Acciones";
 "hide-title-and-icon" = "Ocultar Título E Ícono";
+"do-not-kill-now-playing" = "No Cerrar Reproduciendo Ahora";
 "customizations" = "Personalizaciones";
 "enable-close-app" = "Habilitar Cierre De Aplicación";
 "enable-relaunch" = "Habilitar Relanzar Aplicación";
@@ -70,3 +71,4 @@
 "failed-to-install-lpack" = "Falló la instalación del Paquete de Lenguaje! Intente una vez más tarde!";
 "success-to-install-lpack" = "El Paquede de Lenguaje ha sido descargado e instalado correctamente!";
 "buy-popup-visit" = "Tiene que comprar éste paquete primero para poder usarlo. Accede a los ajustes para más información!";
+"manage-license" = "Manejar Mi Licencia";
