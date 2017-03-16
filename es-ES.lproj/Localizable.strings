@@ -71,3 +71,4 @@
 "failed-to-install-lpack" = "No se pudo instalar el pack! Inténtalo de nuevo más tarde!";
 "success-to-install-lpack" = "El pack de idiomas ha sido descargado e instalado corractamente!";
 "buy-popup-visit" = "Debes que comprar este tweak para poder usarlo. Visita la página de ajustes para obtener más información!";
+"manage-license" = "Administrar mi Licencia";
