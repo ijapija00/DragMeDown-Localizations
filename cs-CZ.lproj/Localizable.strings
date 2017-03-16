@@ -71,4 +71,4 @@
 "failed-to-install-lpack" = "Nastala chyba při instalování překladu! Prosím, zkuste to později!";
 "success-to-install-lpack" = "Překlad byl úspěšně stažen a nainstalován!";
 "buy-popup-visit" = "Jestliže chcete tento balíček využívat, musíte ho nejdřív zakoupit. Pro více informací navštivte nastavení!";
-
+"manage-license" = "Spravovat licenci";
