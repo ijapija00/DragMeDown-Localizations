@@ -71,3 +71,4 @@
 "failed-to-install-lpack" = "Échec de l'installation du pack de langue ! Veuillez réessayer plus tard.";
 "success-to-install-lpack" = "Le pack de langue a été téléchargé et correctement installé !";
 "buy-popup-visit" = "Vous devez acheter ce paquet afin de l'utiliser. Veuillez vous rendre dans les Réglages pour plus d'informations !";
+"manage-license" = "Gérer ma Licence”;
