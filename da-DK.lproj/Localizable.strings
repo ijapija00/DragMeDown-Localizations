@@ -1,13 +1,13 @@
 "language-pack" = "da-DK";
-"enabled" = "Slået til";
+"enabled" = "Slå til";
 "by" = "af";
 "cancel" = "Annuler";
 "twitter-follow" = "Følg mig på Twitter";
 "add-repo" = "Tilføj mit offentlige repositorie";
 "donate" = "Køb en øl til mig";
 "open-cydia" = "Vis pakke i Cydia";
-"bug-report" = "Rapporter felj eller spørgsmål";
-"configuration" = "Indstilling";
+"bug-report" = "Rapporter fejl eller spørgsmål";
+"configuration" = "Indstillinger";
 "version" = "Version";
 "buy-me" = "Køb DragMeDown";
 "open-youtube" = "Original app ide! Inspiration??";
@@ -26,7 +26,7 @@
 "blacklisted-apps" = "Sortlistede apper";
 "blacklisted-apps-detail" = "Alle valgte apper vil blive sortlistet og ikke fjernet når du bruger 'Luk app'-indstillingen.";
 "dragmedown-menu" = "DragMeDown-menu";
-"dragmedown-menu-detail" = "Du kan tilpasse DragMeDown-menuen. Vælg hvilke indstillinger, der skal vises elelr skjules.";
+"dragmedown-menu-detail" = "Du kan tilpasse DragMeDown-menuen. Vælg hvilke indstillinger, der skal vises eller skjules.";
 "slider-time" = "Trækfølsomhed";
 "slider-time-delay" = "Du kan tilpasse trækfølsomheden med skyderen ovenfor. Lavere værdier betyder, at DragMeDown vil blive aktiveret med et mindre træk ned / træk op. For højrere værdier, er du nødt til at trække mere, for at aktivere DragMeDown.";
 "always-show-status-bar" = "Vis altid statuslinje";
@@ -39,7 +39,7 @@
 "dragmedown-menu" = "DragMeDown-menu";
 "relaunch-all-apps" = "Genstart alle apper";
 "dismiss-switcher" = "Afvis appskifter";
-"open-favorite-app" = "Åbn favorikapp";
+"open-favorite-app" = "Åbn favoritapp";
 "favorite-detail" = "Hold programkortet i ca 1,5 sekund, for at vælge en ny favoritapp!";
 "favorite-app" = "Favoritapp";
 "respring" = "Respring";
@@ -60,7 +60,7 @@
 "success-appcache-delete" = "Appcachen er blevet slettet!";
 "failed-appdata-delete" = "Du kan ikke slette appen og brugerdataen for denne app!";
 "success-appdata-delete" = "Al app- og brugerdata er blevet slettet! Appen skulle være klar til at blive sat op igen!";
-"reset-settings-message" = "Nulstil færdig! Vær velkommen til at tilpasse DragMeDown igen!";
+"reset-settings-message" = "Nulstilling færdig! Vær velkommen til at tilpasse DragMeDown igen!";
 "failed-to-connect-server" = "Forbindelsen til betalingsserveren fejlede!";
 "appbadge-cleared" = "Appetiketten er blevet ryddet!";
 "buy-popup" = "Du skal købe denne pakke for at kunne bruge den. Har du lyst til at købe den nu?";
