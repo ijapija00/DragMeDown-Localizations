@@ -71,3 +71,4 @@
 "failed-to-install-lpack" = "Falha ao instalar pacote de linguagem! Tente novamente mais tarde!";
 "success-to-install-lpack" = "O pacote de linguagem foi transferido e instalado com sucesso!";
 "buy-popup-visit" = "Tem de comprar este package por forma a poder utilizá-lo. Vá às definições para mais informação!";
+"manage-license" = "Gerir a minha licença!";
