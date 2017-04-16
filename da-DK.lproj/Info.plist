@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>LanguagePackVersion</key>
-	<string>1.1</string>
+	<string>1.1.1</string>
 	<key>LanguagePackBuild</key>
 	<string>1</string>
 	<key>TranslatorEmail</key>
 	<string>paadyhr@gmail.com</string>
 	<key>TranslatorName</key>
-	<string>Peter (reddit: 500pd)</string>
+	<string>Peter (u/500pd)</string>
 	<key>Language</key>
 	<string>Dansk</string>
 	<key>LanguageKey</key>
